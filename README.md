@@ -1,4 +1,4 @@
-👋 Hi, I’m @dylanplayer
+👋 Hello!
 
 ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanplayer&show_icons=true&theme=radical)
 
