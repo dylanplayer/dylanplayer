@@ -1,7 +1,8 @@
-👋 Hello!
+# Hello!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanplayer&show_icons=true&theme=radical)
+## Stats 📈
+![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanplayer&langs_count=3&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api?username=dylanplayer&show_icons=true&line_height=27&count_private=true&theme=radical)](https://github.com/dylanplayer/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanplayer&layout=compact)](https://github.com/dylanplayer/github-readme-stats)
-
-📫 dylan@dylanplayer.com || www.dylanplayer.com/contact
+## Contact 📞
+[![Linkedin Badge](https://img.shields.io/badge/-DylanPlayer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dylan-player/)](https://www.linkedin.com/in/dylan-player/) 
+[![Gmail Badge](https://img.shields.io/badge/-dylan@dylanplayer.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dylan@dylanplayer.com)](mailto:dylan@dylanplayer.com)
