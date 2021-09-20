@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanplayer&langs_count=3&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api/?username=dylanplayer&show_icons=true&line_height=27&count_private=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dylanplayer&theme=radical">
 </div>
 
 ## Contact 📞
