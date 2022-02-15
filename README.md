@@ -6,9 +6,11 @@
 
 BACs Student at The Dominican University of California with a focus in back-end web. Software Engineering Intern in the Dev Degree program at Shopify. 
 
-<div align="center">
-  <a href="https://wakatime.com"><img width="600px" src="https://wakatime.com/share/@dylanplayer/36c018a7-3388-4d83-8d48-a623c37b1cb4.png" /></a>
-</div>
+<p align="center" >
+  <img width="45%" src="https://wakatime.com/share/@dylanplayer/3613b8bd-0519-4530-a216-aa7c0cf8b476.svg" />
+  <img width="45%" src="https://wakatime.com/share/@dylanplayer/6fe972fa-6e50-4c11-a28b-90651e4ee7ae.svg" />
+</p>
+
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dylanplayer&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanplayer&langs_count=3&theme=radical">
