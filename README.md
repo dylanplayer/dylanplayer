@@ -2,10 +2,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/dylanplayer?logo=github&style=for-the-badge)](https://github.com/dylanplayer)
 
 
-# Hello!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-
-BACs Student at The Dominican University of California with a focus in back-end web. Software Engineering Intern in the Dev Degree program at Shopify. 
-
 <p align="center" >
   <img width="45%" src="https://wakatime.com/share/@dylanplayer/3613b8bd-0519-4530-a216-aa7c0cf8b476.svg" />
   <img width="45%" src="https://wakatime.com/share/@dylanplayer/6fe972fa-6e50-4c11-a28b-90651e4ee7ae.svg" />
