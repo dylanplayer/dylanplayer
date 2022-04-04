@@ -1,5 +1,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/dylanplayer?logo=GitHub&style=for-the-badge)](https://github.com/dylanplayer)
-[![GitHub Stars](https://img.shields.io/github/stars/dylanplayer?logo=github&style=for-the-badge)](https://github.com/dylanplayer)
+<!-- [![GitHub Stars](https://img.shields.io/github/stars/dylanplayer?logo=github&style=for-the-badge)](https://github.com/dylanplayer) -->
 
 <p align="center" >
   <img width="45%" src="https://wakatime.com/share/@dylanplayer/3613b8bd-0519-4530-a216-aa7c0cf8b476.svg" />
