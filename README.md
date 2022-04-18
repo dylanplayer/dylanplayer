@@ -7,4 +7,4 @@ I am currently a software engineering intern at [Shopify](https://shopify.com) a
 ## Contact 📞
 [![Linkedin Badge](https://img.shields.io/badge/-DylanPlayer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dylan-player/)](https://www.linkedin.com/in/dylan-player/) 
 [![Gmail Badge](https://img.shields.io/badge/-dylan@dylanplayer.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dylan@dylanplayer.com)](mailto:dylan@dylanplayer.com)
-![Twitter Badge](https://img.shields.io/badge/dylanplayer-blue?style=flat-square&logo=Twitter&logoColor=white&link=mailto:dylan@dylanplayer.com)
+[![Twitter Badge](https://img.shields.io/badge/dylanplayer-blue?style=flat-square&logo=Twitter&logoColor=white&link=mailto:dylan@dylanplayer.com)](https://twitter.com/dylanplayer)
