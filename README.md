@@ -1,7 +1,6 @@
 <!-- ![Dylan Player Header](./images/Header.png) -->
 
 # Hi everyone 👋
-https://emojis.so
 I am currently a software engineer at [Shopify](https://shopify.com) and Co-founder of [851 Inc](https://emojis.sh). Feel free to check out my portfolio [here](https://dylanplayer.com).
 
 ## Contact 📞
